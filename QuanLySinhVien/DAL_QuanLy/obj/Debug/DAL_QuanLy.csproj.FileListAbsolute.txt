@@ -1,0 +1,9 @@
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb

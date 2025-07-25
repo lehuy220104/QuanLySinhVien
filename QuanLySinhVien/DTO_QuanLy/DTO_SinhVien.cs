@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BUS_QuanLy
+namespace DTO_QuanLy
 {
-    public class Class1
+    internal class DTO_SinhVien
     {
     }
 }

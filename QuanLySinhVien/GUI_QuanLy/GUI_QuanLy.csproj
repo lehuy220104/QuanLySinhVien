@@ -52,8 +52,44 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_Admin.Designer.cs">
+      <DependentUpon>GUI_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_DangNhap.Designer.cs">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_GiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_GiangVien.Designer.cs">
+      <DependentUpon>GUI_GiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI_SinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI_SinhVien.Designer.cs">
+      <DependentUpon>GUI_SinhVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI_Admin.resx">
+      <DependentUpon>GUI_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_DangNhap.resx">
+      <DependentUpon>GUI_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_GiangVien.resx">
+      <DependentUpon>GUI_GiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI_SinhVien.resx">
+      <DependentUpon>GUI_SinhVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +111,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS_QuanLy\BUS_QuanLy.csproj">
+      <Project>{32f2f3f7-afc1-4479-90bc-3d74d61a10ac}</Project>
+      <Name>BUS_QuanLy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_QuanLy\DTO_QuanLy.csproj">
+      <Project>{ef476735-869b-44a6-b7f7-de345ba89fce}</Project>
+      <Name>DTO_QuanLy</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
