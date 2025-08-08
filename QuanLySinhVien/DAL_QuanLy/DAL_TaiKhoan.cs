@@ -76,6 +76,23 @@ namespace DAL_QuanLy
             }
         }
 
+        public bool SuaTaiKhoan(DTO_TaiKhoan tk)
+        {
+            string query = "UPDATE TaiKhoan SET MatKhau = @MatKhau, VaiTro = @VaiTro WHERE TenDangNhap = @TenDangNhap";
+            using (SqlCommand cmd = new SqlCommand(query, _conn))
+            {
+                cmd.Parameters.AddWithValue("@MatKhau", tk.MatKhau);
+                cmd.Parameters.AddWithValue("@VaiTro", tk.VaiTro);
+                cmd.Parameters.AddWithValue("@TenDangNhap", tk.TenDangNhap);
+
+                _conn.Open();
+                int rows = cmd.ExecuteNonQuery();
+                _conn.Close();
+
+                return rows > 0;
+            }
+        }
+
         public DataTable LayTatCaTaiKhoan()
         {
             DataTable dt = new DataTable();
@@ -83,6 +100,22 @@ namespace DAL_QuanLy
             using (SqlDataAdapter da = new SqlDataAdapter(query, _conn))
             {
                 da.Fill(dt);
+            }
+            return dt;
+        }
+
+        public DataTable TimKiemTaiKhoan(string keyword)
+        {
+            DataTable dt = new DataTable();
+            string query = "SELECT * FROM TaiKhoan WHERE TenDangNhap LIKE @keyword";
+
+            using (SqlCommand cmd = new SqlCommand(query, _conn))
+            {
+                cmd.Parameters.AddWithValue("@keyword", "%" + keyword + "%");
+                using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+                {
+                    da.Fill(dt);
+                }
             }
             return dt;
         }

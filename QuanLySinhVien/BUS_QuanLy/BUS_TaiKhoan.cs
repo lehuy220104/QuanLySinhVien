@@ -1,5 +1,6 @@
 ﻿using DAL_QuanLy;
 using DTO_QuanLy;
+using System.Data;
 
 namespace BUS_QuanLy
 {
@@ -31,6 +32,20 @@ namespace BUS_QuanLy
         public bool XoaTaiKhoan(string tenDangNhap)
         {
             return dalTaiKhoan.XoaTaiKhoan(tenDangNhap);
+        }
+        public bool SuaTaiKhoan(DTO_TaiKhoan tk)
+        {
+            return dalTaiKhoan.SuaTaiKhoan(tk);
+        }
+
+        public DataTable LayTatCaTaiKhoan()
+        {
+            return dalTaiKhoan.LayTatCaTaiKhoan();
+        }
+
+        public DataTable TimKiemTaiKhoan(string tenDangNhap)
+        {
+            return dalTaiKhoan.TimKiemTaiKhoan(tenDangNhap);
         }
     }
 }

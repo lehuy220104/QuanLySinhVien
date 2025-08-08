@@ -40,3 +40,24 @@ E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.cspr
 E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
 E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb
 E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe.config
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe.config
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\GUI_QuanLy.exe
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\GUI_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.AssemblyReference.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.SuggestedBindingRedirects.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_Admin.resources
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_DangNhap.resources
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_GiangVien.resources
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.GUI_SinhVien.resources
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.Properties.Resources.resources
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.GenerateResource.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.csproj.CopyComplete
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.exe
+C:\Users\daith\OneDrive\Máy tính\QuanLySinhVien\QuanLySinhVien\GUI_QuanLy\obj\Debug\GUI_QuanLy.pdb

@@ -136,5 +136,7 @@ namespace GUI_QuanLy
                 Diem = float.TryParse(txtDiem.Text, out float d) ? d : 0
             };
         }
+
+        
     }
 }

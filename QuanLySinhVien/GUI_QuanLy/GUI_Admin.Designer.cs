@@ -149,6 +149,7 @@
             this.txtTimKiem.Name = "txtTimKiem";
             this.txtTimKiem.Size = new System.Drawing.Size(148, 22);
             this.txtTimKiem.TabIndex = 4;
+            this.txtTimKiem.TextChanged += new System.EventHandler(this.txtTimKiem_TextChanged);
             // 
             // dgvTaiKhoan
             // 
@@ -160,6 +161,7 @@
             this.dgvTaiKhoan.RowHeadersWidth = 51;
             this.dgvTaiKhoan.Size = new System.Drawing.Size(1128, 417);
             this.dgvTaiKhoan.TabIndex = 3;
+            this.dgvTaiKhoan.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTaiKhoan_CellClick);
             // 
             // cbVaiTro
             // 
@@ -179,6 +181,7 @@
             this.btnXoa.TabIndex = 1;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnSua
             // 
@@ -189,6 +192,7 @@
             this.btnSua.TabIndex = 1;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnThem
             // 
@@ -227,7 +231,7 @@
             this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.tabPage2.Size = new System.Drawing.Size(1192, 663);
+            this.tabPage2.Size = new System.Drawing.Size(983, 491);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Dữ liệu";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -291,6 +295,7 @@
             this.Controls.Add(this.maAD);
             this.Name = "GUI_Admin";
             this.Text = "GUI_Admin";
+            this.Load += new System.EventHandler(this.GUI_Admin_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
