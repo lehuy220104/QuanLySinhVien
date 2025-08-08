@@ -4,6 +4,6 @@ namespace DAL_QuanLy
 {
     public class DBConnect
     {
-        protected SqlConnection _conn = new SqlConnection("Data Source=LAPTOP-GC2FQGCT\\SQLEXPRESS;Initial Catalog=QLSinhVien;Integrated Security=True");
+        protected SqlConnection _conn = new SqlConnection("Data Source=DESKTOP-2IP3FB5;Initial Catalog=QLSinhVien;Integrated Security=True");
     }
 }

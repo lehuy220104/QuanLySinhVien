@@ -48,7 +48,7 @@ namespace GUI_QuanLy
             // Kiểm tra đăng nhập
             if (busTK.DangNhap(tk))
             {
-                string vaiTroDB = busTK.LayVaiTro(tk);
+                string vaiTroDB = busTK.LayVaiTro(tk.TenDangNhap);
 
                 if (vaiTroDB == vaiTro)
                 {

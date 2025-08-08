@@ -41,6 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTO_ChuyenNganh.cs" />
+    <Compile Include="DTO_DangKyHoc.cs" />
+    <Compile Include="DTO_Diem.cs" />
+    <Compile Include="DTO_GiangVien.cs" />
+    <Compile Include="DTO_GPA.cs" />
+    <Compile Include="DTO_HocKy.cs" />
+    <Compile Include="DTO_Khoa.cs" />
+    <Compile Include="DTO_Lop.cs" />
+    <Compile Include="DTO_LopHocPhan.cs" />
+    <Compile Include="DTO_MonHoc.cs" />
     <Compile Include="DTO_SinhVien.cs" />
     <Compile Include="DTO_TaiKhoan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

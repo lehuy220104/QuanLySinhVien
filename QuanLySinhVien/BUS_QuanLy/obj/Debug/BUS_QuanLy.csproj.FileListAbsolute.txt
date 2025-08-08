@@ -9,3 +9,14 @@ D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.C
 D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
 D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
 D:\LTCSDL_QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.AssemblyReference.cache
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.Up2Date
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+E:\LTCSDL_BTL\QuanLySinhVien\QuanLySinhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
